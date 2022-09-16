@@ -19,3 +19,9 @@ void main (){
         }
        printf("total composite number are: %d",count);
  }
+
+
+enter the start number= 4
+Enter limit: 2
+Composite Numbers upto (2):
+
